@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenTestConf 2020</title>
+    <link>/</link>
+    <description>Recent content on OpenTestConf 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CODE OF CONDUCT</title>
+      <link>/updates/2019-06-20/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/updates/2019-06-20/</guid>
+      <description>Our Pledge In the interest of fostering an open and welcoming environment, we as speakers, attendees and organizers at DevConf pledge to making participation in our event and community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Our Standards Examples of behavior that contributes to creating a positive environment include:</description>
+    </item>
+    
+    <item>
+      <title>MEDIA POLICY</title>
+      <link>/updates/2019-06-19/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/updates/2019-06-19/</guid>
+      <description>tldr; DevConf organizers strive to create a positive environment that adheres to our Code of Conduct and respects privacy of individuals. That said, this is a public event and DevConf event organizers do not wish to discourage folks from taking and sharing photos and video during the event. Also, all sessions to be recorded and posted on our YouTube channel for archival purposes, unless otherwise explicitly requested.
+Speakers and session recording When you agree to speak at any DevConf event, you consent for your talk to be recorded in audio and possibly video format.</description>
+    </item>
+    
+    <item>
+      <title>Call for the paper</title>
+      <link>/updates/2019-05-30/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/updates/2019-05-30/</guid>
+      <description> The CFP is opened till May the 25th 2020  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, maxime tempora, blanditiis, recusandae neque similique nesciunt officia ea animi suscipit sunt illo dolorem! Unde, atque. Ab distinctio quaerat assumenda repudiandae?
+ </description>
+    </item>
+    
+    <item>
+      <title>current status</title>
+      <link>/updates/2019-04-28-any/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/updates/2019-04-28-any/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, maxime tempora, blanditiis, recusandae neque similique nesciunt officia ea animi suscipit sunt illo dolorem! Unde, atque. Ab distinctio quaerat assumenda repudiandae?</description>
+    </item>
+    
+  </channel>
+</rss>
