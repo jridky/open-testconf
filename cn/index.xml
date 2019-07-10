@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OpenTestConf 2020</title>
+    <title>Open Testcon</title>
     <link>/cn/</link>
-    <description>Recent content on OpenTestConf 2020</description>
+    <description>Recent content on Open Testcon</description>
     <generator>Hugo -- gohugo.io</generator>
     
 	<atom:link href="/cn/index.xml" rel="self" type="application/rss+xml" />
@@ -24,9 +24,7 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/cn/updates/2019-06-20/</guid>
-      <description>&lt;h4 id=&#34;我们承诺&#34;&gt;我们承诺&lt;/h4&gt;
-
-&lt;p&gt;为了营造一个开放和热情的环境，我们作为 DevConf 的发言人、与会者或组织者承诺为每个人参与我们的活动和社区提供无骚扰的体验，无论其年龄、体型、种族、宗教、国籍、残疾与否、经验水平、个人形象或性取向如何。&lt;/p&gt;</description>
+      <description>&lt;p&gt;为了营造一个开放和热情的环境，我们作为 DevConf 的发言人、与会者或组织者承诺为每个人参与我们的活动和社区提供无骚扰的体验，无论其年龄、体型、种族、宗教、国籍、残疾与否、经验水平、个人形象或性取向如何。&lt;/p&gt;</description>
     </item>
     
     <item>
