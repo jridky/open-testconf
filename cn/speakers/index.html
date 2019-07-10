@@ -133,12 +133,56 @@
 
   <main>
     
+
+
 <div class="container">
   
+  <br>
+  <div class="row center">
+  <div class="card-panel red darken-2 white-text">
+    <h4 class="rhDisplayBold center" style="text-shadow: 5px 5px 15px black;margin-bottom: 10px">
+      嘉宾名单将发布于
+    </h4>
+    <br>
+    <a class="waves-effect waves-light btn-large red darken-1 white-text z-depth-4">
+      <i class="material-icons left">date_range</i>
+      2019-12-12
+    </a>
+    <h4>&nbsp;</h4>
 
-<h1 id="演讲者列表">演讲者列表</h1>
-
+    <h4 class="rhDisplayBold center" style="text-shadow: 5px 5px 15px black;margin-bottom: 10px">
+      离发布还有
+    </h4>
+    <h1 class="rhDisplayBold center" id="cd_time" style="text-shadow: 5px 5px 15px black;margin-bottom: 30px">&nbsp;
+    </h1>
+  </div>
 </div>
+
+  
+</div>
+
+<script>
+  var countDownDate = new Date("2019-12-12T00:12:12\x2b08:00").getTime();
+  var x = setInterval(function () {
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    document.getElementById("cd_time").innerHTML = days + "d - " + hours + "h: "
+      + minutes + "m: " + seconds + "s ";
+
+    if (distance < 0) {
+      clearInterval(x);
+      document.getElementById("cd_time").innerHTML = "EXPIRED";
+    }
+  }, 1000);
+</script>
+
+
 
   </main>
 
